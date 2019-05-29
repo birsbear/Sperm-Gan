@@ -18,3 +18,8 @@ Epoch 2000 後的結果
 Epoch 10000 後的結果
 
 !['epoch 10000'](https://github.com/birsbear/Sperm-Gan/blob/master/generator_total_100000.png)
+
+
+從生成圖中可發現  
+有不少生成影像會有重複和生成影像模糊的情況
+初步推判是因為訓練資料量不足(四千筆)的原因造成
